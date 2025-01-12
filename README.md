@@ -1,5 +1,8 @@
 # NLP-Final
 
+## Report
+See *report.pdf*.
+
 ## Install Dependencies
 
 ```shell
@@ -24,14 +27,10 @@ python train.py --train --model $CHECKPOINT_PATH
 python train.py --model $CHECKPOINT_PATH
 ```
 
-## View translation results of our SOTA model
+## View results
+For translation results of our SOTA model, see *inference.ipynb*.
 
-```shell
-inference.ipynb
-```
+For raw evaluation data, see *results.json*
 
-## View evaluation results
-
-```shell
-results.json
-```
+## Checkpoints
+Download all our checkpoints at https://disk.pku.edu.cn/link/AA16D1AAF2F0A0436AB55F5A64DD0BD8BC. Notice that the SOTA model is under dir *raw_opus_merge*.
