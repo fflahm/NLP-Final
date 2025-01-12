@@ -1,10 +1,7 @@
 # NLP-Final
 
 ## Report
-
-```shell
-report.pdf
-```
+See *report.pdf*
 
 ## Install Dependencies
 
@@ -30,14 +27,6 @@ python train.py --train --model $CHECKPOINT_PATH
 python train.py --model $CHECKPOINT_PATH
 ```
 
-## View translation results of our SOTA model
-
-```shell
-inference.ipynb
-```
-
-## View evaluation results
-
-```shell
-results.json
-```
+## View results
+For translation results of our SOTA model, see *inference.ipynb*.
+For raw evaluation data, see *results.json*
