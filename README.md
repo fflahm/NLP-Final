@@ -3,7 +3,7 @@
 ## Report
 
 ```shell
-report.txt
+report.pdf
 ```
 
 ## Install Dependencies
